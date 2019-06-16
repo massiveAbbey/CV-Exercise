@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.8.2"
+github "Alamofire/AlamofireImage" "3.5.2"
+github "nakiostudio/EasyPeasy" "1.9.0"
+github "onevcat/Kingfisher" "5.6.0"
